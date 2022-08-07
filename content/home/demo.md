@@ -3,7 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: Vietnamese Teachers
+widget_id: VIETNAMESE TEACHERS
 headless: true
 weight: 15
 title: Vietnamese Teachers
@@ -22,8 +22,6 @@ design:
       - 20px
       - "0"
 ---
-## VIETNAMESE TEACHERS
-
 ## About us
 
 Xin chào bạn, cô là Hoàng Gấm - Emma - Giáo viên dạy tiếng Việt.
