@@ -1,5 +1,5 @@
 ---
-title: Hoàng Gấm - Emma
+title: Hoàng Gấm - Emma Vietnamese
 role: Vietnamese teacher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
