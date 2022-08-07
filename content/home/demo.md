@@ -3,10 +3,10 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: VIETNAMESE TEACHERS
+widget_id: "Vietnamese Teachers "
 headless: true
 weight: 15
-title: Vietnamese Teachers
+title: VIETNAMESE TEACHERS
 subtitle: ""
 active: true
 design:
